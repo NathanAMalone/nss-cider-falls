@@ -1,0 +1,83 @@
+/* .parkAreas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-basis: 24%;
+    margin: 0 2rem;
+    padding: 1rem 30rem 1rem 1rem;
+    border: 1px dotted goldenrod;
+    max-width: 70%;
+} */
+
+#flexArea {
+    margin: 0 2rem;
+    padding: 1rem 10rem 1rem 1rem;
+    border: 3px dotted red;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+    justify-content: space-between;
+
+}
+
+#areas--1 {
+    margin: 0 2rem;
+    padding: 1rem 1rem 1rem 1rem;
+    border: 1px dotted blue;
+   
+}
+
+#areas--2 {
+    margin: 0 2rem;
+    padding: 1rem 1rem 1rem 1rem;
+    border: 1px dotted blue;
+   
+}
+
+#areas--3 {
+    margin: 0 2rem;
+    padding: 1rem 1rem 1rem 1rem;
+    border: 1px dotted blue;
+   
+}
+
+#areas--4 {
+    margin: 0 2rem;
+    padding: 1rem 1rem 1rem 1rem;
+    border: 1px dotted blue;
+   
+}
+
+#areas--5 {
+    margin: 0 2rem;
+    padding: 1rem 1rem 1rem 1rem;
+    border: 1px dotted blue;
+   
+}
+
+#areas--6 {
+    margin: 0 2rem;
+    padding: 1rem 1rem 1rem 1rem;
+    border: 1px dotted blue;
+   
+}
+.guests {
+    margin: 0 2rem;
+    padding: 1rem;
+    border: 1px dotted goldenrod;
+    float: right;
+    top: 0px;
+    
+}
+
+.guestsAreas {
+        display: flex;
+        flex-direction: row;
+        
+}
+
+.info_CFP {
+    margin-top: 15%;
+    text-align: center;
+}
+
